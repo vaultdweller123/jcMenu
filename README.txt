@@ -1,6 +1,3 @@
-jcMenu
-======
-
 [ABOUT]
 a javascript menu using jquery
 	
