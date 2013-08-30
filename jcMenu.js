@@ -1,13 +1,3 @@
-/**
-* JcMenu
-*
-* Copyright (c) 2011 Joe Christian Alcomendras
-* Dual licensed under the MIT and GPL licenses:
-* http://www.opensource.org/licenses/mit-license.php
-* http://www.gnu.org/licenses/gpl.html
-*
-*/
-
 // Menu
 /*
 HTML mark up:
@@ -28,6 +18,7 @@ HTML mark up:
 function call:
 	jQuery.jcMenu('myid');	
 */
+
 var jcMenu = function (id) {
 
 	// default state, hide child menu items
